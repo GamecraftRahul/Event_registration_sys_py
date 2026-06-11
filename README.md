@@ -197,7 +197,7 @@ This project demonstrates:
 
 ## Author
 
-**Rahul Kumar**
+**Rahul Kulkarni**
 
 Python | MySQL | Tkinter Developer
 
